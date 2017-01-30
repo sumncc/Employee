@@ -35,7 +35,7 @@ import com.sargent.disc.util.Resources;
 
 @RunWith(Arquillian.class)
 @RunAsClient
-/**  test chnage  from master**/
+/**  test chnage  from master again**/
 public class EmployeeInviationRestServiceTest  {
 	@Deployment
 	public static Archive<?> createTestArchive() {

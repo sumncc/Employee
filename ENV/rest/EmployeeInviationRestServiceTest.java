@@ -95,6 +95,11 @@ public class EmployeeInviationRestServiceTest  {
     public void testGetCustomerByIdUsingClientRequest() throws Exception {
         //deploymentUrl = new URL("http://localhost:8180/test/");
         // GET http://localhost:8080/test/rest/customer/1
+    	
+    	
+    	
+    	// test data
+    	
       //  @SuppressWarnings("deprecation")
 		//ClientRequest request = new ClientRequest(deploymentUrl.toString() + RESOURCE_PREFIX + "/employeeInvitation/list/?start=0&limit=35");
         
@@ -125,3 +130,5 @@ public class EmployeeInviationRestServiceTest  {
 }
 
 //mvn -e clean test -Parq-jbossas-managed
+
+//test lien

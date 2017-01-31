@@ -36,7 +36,7 @@ import com.sargent.disc.util.Resources;
 @RunWith(Arquillian.class)
 @RunAsClient
 /**  test chnage  from master again**/
-public class EmployeeInviationRestServiceTest  {
+public class EmployeeInviationRestServiceTest  {//ff
 	@Deployment
 	public static Archive<?> createTestArchive() {
 		return ShrinkWrap.create(WebArchive.class, "test55.war")
